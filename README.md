@@ -1,7 +1,11 @@
 # Blackjack-Game
 A simple browser-based Blackjack game to demonstrate knowledge and understanding of the frontend.
 
-This is an ongoing project.
+This project was built from scratch using HTML, pure CSS, and vanilla JavaScript as part of the ***Making Websites Interactive*** module of the ***The Frontend Developer Career Path*** by **Per Harald Borgen** on [Scrimba](https://scrimba.com/learn/frontend/lets-build-a-chrome-extension-co85441e3b6bd2c9eeee218bf).
+
+Check it out [here](#).
+
+Technologies used: HTML, CSS, JavaScript, Microsoft Edge web browser, Visual Studio Code
 
 Upcoming updates:
 
